@@ -6,3 +6,5 @@ Built a fraud detection system for credit card transactions using the BERT LLM t
 - Data Splitting: Partition the dataset into training and testing subsets to facilitate model training and assessment.
 - Model Training: Employ a BERT-based model for sequence classification to train on the designated training data.
 - Model Evaluation: Assess the performance of the trained model on the test set by analyzing evaluation metrics like the classification report.
+
+Note: I leveraged a Kaggle dataset for both training and testing my model.
